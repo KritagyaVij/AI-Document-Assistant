@@ -116,7 +116,7 @@ http://localhost:5173
 
 ## 🎥 Demo
 
-(Attach your demo video link here)
+
 
 ---
 
@@ -131,5 +131,5 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-Your Name
+Your Name - Kritagya Vij
 Internship Project – AI Document Chatbot
